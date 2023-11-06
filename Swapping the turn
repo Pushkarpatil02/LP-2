@@ -1,0 +1,10 @@
+player = self.swap_player_turn(player)
+
+
+print()
+
+self.show_board()
+
+tic_tac_toe = TicTacToe()
+
+tic_tac_toe.start()
